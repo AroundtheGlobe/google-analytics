@@ -2,7 +2,7 @@ import codecs
 
 from setuptools import find_packages, setup
 
-setup(name='googleanalyticsatg',
+setup(name='googleanalytics',
     description='A wrapper for the Google Analytics API.',
     long_description=codecs.open('README.rst', 'r', 'utf-8').read(),
     author='Stijn Debrouwere',
